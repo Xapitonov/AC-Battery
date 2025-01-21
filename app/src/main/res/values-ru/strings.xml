@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">АК Батарея</string>
+
+    <string name="how_to_use">Как пользоваться</string>
+    <string name="note">Примечание</string>
+    <string name="configuration">Конфигурация</string>
+    <string name="on_battery">При разряде батареи</string>
+    <string name="charging">При зарядке батареи</string>
+    <string name="about">О приложении</string>
+
+    <string name="hide_launch_icon">Скрыть значок запуска (возможно, вам потребуется перезагрузить Android)</string>
+
+    <string name="how_to_use_text">АК Батарея — это виджет для отображения уровня заряда батареи.\n\nЧтобы использовать это приложение, вам нужно добавить виджет "АК батарея" на главный экран.</string>
+    <string name="note_text">
+    Если приложение принудительно остановлено или закрыто программой очистки памяти, виджет может работать неправильно.\n\n 
+    Открытие окна поможет виджету снова работать правильно.\n\n 
+    Нажмите на виджет, чтобы открыть это окно и исправить его работу!\n\n 
+    Рекомендуется добавить приложение в белый список программы очистки памяти.
+</string>
+    <string name="about_text">Разработчик: &lt;a href=&quot;mailto:hipposeven332@gmail.com&quot;&gt;Hippo Seven&lt;/a&gt;&lt;br&gt;&lt;br&gt;Github: &lt;a href=&quot;https://github.com/seven332/AC-Battery&quot;&gt;https://github.com/seven332/AC-Battery&lt;/a&gt;&lt;br&gt;&lt;br&gt;Проект основан на &lt;a href=&quot;https://github.com/er-mo/Android-Battery-Widget&quot;&gt;Android-Battery-Widget&lt;/a&gt; от er-mo&lt;br&gt;&lt;br&gt;Эмодзи AC niang принадлежат AcFun弹幕视频网</string>
+
+    <string name="_default">По умолчанию</string>
+    <string name="add">Добавить</string>
+
+</resources>
