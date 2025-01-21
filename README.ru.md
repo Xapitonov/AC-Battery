@@ -1,4 +1,4 @@
-# Виджет AC-Battery
+# AC-Battery
 
 ![Иконка](art/launcher_icon-web.png)
 
